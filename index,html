@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Site Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Enter Site Title</h1>
+        </header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">New Page</a></li>
+                <li><a href="#">New Page 2</a></li>
+                <li><a href="#">New Page 3</a></li>
+                <li><a href="#">New Page 4</a></li>
+                <li><a href="#">New Page 5</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <div class="main-menu">
+                <h2>Main Menu</h2>
+                <!-- List of menu items -->
+            </div>
+            <div class="gallery">
+                <!-- Gallery content -->
+            </div>
+            <aside class="sidebar">
+                <!-- Subscription block -->
+                <!-- Other Services block -->
+            </aside>
+        </div>
+        <footer>© 2014 Enter Site Title</footer>
+    </div>
+</body>
+</html>
