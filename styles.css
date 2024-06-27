@@ -8,16 +8,16 @@ body {
 .container {
     width: 960px;
     margin: 20px auto;
-    background-color: #fff6d5;
+    background-color: #f1ebd5;
     padding: 10px;
-    border: 1px solid #d1c797;
+    border: 1px solid #c2c2c2;
 }
 
 header {
     background-color: #b3d465;
     padding: 20px;
     text-align: center;
-    border-bottom: 1px solid #d1c797;
+    border-bottom: 1px solid #c2c2c2;
 }
 
 header h1 {
@@ -34,7 +34,7 @@ nav {
     background-color: #f1ebd5;
     padding: 10px;
     text-align: center;
-    border-bottom: 1px solid #d1c797;
+    border-bottom: 1px solid #c2c2c2;
 }
 
 nav ul {
@@ -63,7 +63,7 @@ aside .main-menu, aside .block {
     background-color: #d5ebae;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #d1c797;
+    border: 1px solid #c2c2c2;
 }
 
 aside h2 {
@@ -89,7 +89,7 @@ main {
     float: left;
     width: 75%;
     padding: 10px;
-    border-left: 1px solid #d1c797;
+    border-left: 1px solid #c2c2c2;
 }
 
 main section {
@@ -99,8 +99,13 @@ main section {
 main h2 {
     margin-top: 0;
     color: #3d3d3d;
-    border-bottom: 1px solid #d1c797;
+    border-bottom: 1px solid #c2c2c2;
     padding-bottom: 5px;
+}
+
+main p {
+    text-align: justify;
+    color: #3d3d3d;
 }
 
 .button {
@@ -109,7 +114,7 @@ main h2 {
     background-color: #b3d465;
     color: #3d3d3d;
     text-decoration: none;
-    border: 1px solid #d1c797;
+    border: 1px solid #c2c2c2;
     margin-top: 10px;
 }
 
@@ -119,7 +124,7 @@ footer {
     text-align: center;
     padding: 10px;
     margin-top: 20px;
-    border-top: 1px solid #d1c797;
+    border-top: 1px solid #c2c2c2;
 }
 
 footer p {
